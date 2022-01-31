@@ -1,5 +1,6 @@
 const FixIt1 = () => {
-      <div>
+     return ( 
+     <div>
         <h1>FIX IT 1</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
